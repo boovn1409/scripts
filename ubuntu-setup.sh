@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script to set up an Ubuntu 16.04+ server or PC
+# Script to set up an Ubuntu 18.04+ server or PC
 # (with minimum 8GB RAM, 4 cores CPU) for android ROM compiling
 #
 # IMPORTANT NOTICE: This script sets my personal git config, update 
